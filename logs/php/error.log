@@ -1,0 +1,6 @@
+[31-May-2024 12:55:17 UTC] PHP Warning:  Unknown: Input variables exceeded 4000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[31-May-2024 12:55:18 UTC] PHP Warning:  Undefined array key "column" in C:\Users\ibrah\Local Sites\website\app\public\wp-content\plugins\elementor\core\logger\items\js.php on line 16
+[31-May-2024 12:55:18 UTC] PHP Warning:  Undefined array key "url" in C:\Users\ibrah\Local Sites\website\app\public\wp-content\plugins\elementor\core\logger\items\js.php on line 17
+[15-Jun-2024 11:32:00 UTC] PHP Warning:  Unknown: Input variables exceeded 4000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[15-Jun-2024 11:32:01 UTC] PHP Warning:  Undefined array key "column" in C:\Users\ibrah\Local Sites\website\app\public\wp-content\plugins\elementor\core\logger\items\js.php on line 16
+[15-Jun-2024 11:32:01 UTC] PHP Warning:  Undefined array key "url" in C:\Users\ibrah\Local Sites\website\app\public\wp-content\plugins\elementor\core\logger\items\js.php on line 17
